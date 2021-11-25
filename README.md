@@ -40,3 +40,7 @@ export default {
 }
 </style>
 ```
+
+## Image
+
+![image](https://github.com/wuxiangqi/vemoji-list/blob/main/lib/img/emojis.png)
