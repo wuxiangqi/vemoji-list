@@ -1,0 +1,14 @@
+{
+  "name": "vemoji-list",
+  "version": "1.0.0",
+  "description": "emoji images",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "wusengki",
+  "license": "ISC"
+}
